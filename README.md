@@ -31,9 +31,9 @@ Spring much lighter! :)
 ## Installation
 
 ```
-$ git clone https://github.com/danilomeneghel/spring-course.git
+$ git clone https://github.com/devsoft112/courses-java-spring-boot.git
 
-$ cd spring-course
+$ cd courses-java-spring-boot
 
 ```
 
