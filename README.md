@@ -82,9 +82,3 @@ User Registration is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 ## Model ER
 
 ![Screenshots](model_er.png)<br><br>
-
-
-Developed by<br>
-Danilo Meneghel<br>
-danilo.meneghel@gmail.com<br>
-http://danilomeneghel.github.io/<br>
